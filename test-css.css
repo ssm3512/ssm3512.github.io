@@ -1,0 +1,32 @@
+html {
+  background-color:black;
+}
+body {
+  background-color:azure;
+  margin: 0px auto;
+  padding: 0px 20px 20px 20px;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0px;
+  padding: 5px;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+h2, h3, h4, h5, h6 {
+  margin: 0px;
+  padding: 0px 0px 0px auto;
+}
+img {
+  display:block;
+  margin: 10px auto;
+}
+video {
+  display: block;
+  margin: 10px auto;
+}
+iframe {
+  display: block;
+  margin: 10px auto;
+}
